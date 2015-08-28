@@ -146,5 +146,5 @@ $wb['strength_3'] = "Hyvä";
 $wb['strength_4'] = "Erittäin hyvä";
 $wb['strength_5'] = "Mahtava";
 $wb['weak_password_txt'] = "Valitsemasi salasana ei vastaa asetettuja ehtoja. Sen pitää olla {chars} merkkiä pitkä, ja olla tarpeeksi voimakas (turvallinen) \"{strength}\".";
-$wb['weak_password_length_txt'] = "The chosen password does not match the security guidelines. It has to be at least {chars} chars in length.";
+$wb['weak_password_length_txt'] = "Valitsemasi salasana ei vastaa turvallisuusehtojamme. Sen täytyy olla vähintään {chars} merkkiä pitkä.";
 ?>
