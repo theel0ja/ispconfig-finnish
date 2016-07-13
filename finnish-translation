@@ -38,7 +38,7 @@ $wb['top_menu_help'] = "Ohjeet";
 $wb['top_menu_billing'] = "Myynti";
 $wb['top_menu_domain'] = "Verkkotunnukset";
 $wb['top_menu_dashboard'] = "Etusivu";
-$wb['latest_news_txt'] = "ISPConfig uutiset";
+$wb['latest_news_txt'] = "ISPConfig-uutiset";
 $wb['top_menu_vm'] = "Virtuaalipalvelin";
 $wb['daynamesmin_su'] = "Su";
 $wb['daynamesmin_mo'] = "Ma";
@@ -145,6 +145,6 @@ $wb['strength_2'] = "Keskitasoa";
 $wb['strength_3'] = "Hyvä";
 $wb['strength_4'] = "Erittäin hyvä";
 $wb['strength_5'] = "Mahtava";
-$wb['weak_password_txt'] = "Valitsemasi salasana ei vastaa asetettuja ehtoja. Sen pitää olla {chars} merkkiä pitkä, ja olla tarpeeksi voimakas (turvallinen) \"{strength}\".";
+$wb['weak_password_txt'] = "Valitsemasi salasana ei vastaa asetettuja ehtoja. Sen pitää olla {chars} merkkiä pitkä, ja olla tarpeeksi vahva (turvallinen) \"{strength}\".";
 $wb['weak_password_length_txt'] = "Valitsemasi salasana ei vastaa turvallisuusehtojamme. Sen täytyy olla vähintään {chars} merkkiä pitkä.";
 ?>
