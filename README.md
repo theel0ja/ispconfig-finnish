@@ -1,5 +1,5 @@
 # ISPConfig Codes
-There is my ISPconfig (http://www.ispconfig.org) codes and translations.
+There is my [ISPconfig](http://www.ispconfig.org) codes and translations.
 
 ## How to install Translation
 Open terminal in your server (or use SSH)
