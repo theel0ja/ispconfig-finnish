@@ -1,4 +1,5 @@
 <?php
+// vim: syntax=php
 $wb['conf_format_dateshort'] = "d.m.Y";
 $wb['conf_format_datelong'] = "l dS of F Y";
 $wb['conf_format_timeshort'] = "H:i";
