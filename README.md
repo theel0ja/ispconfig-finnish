@@ -9,6 +9,6 @@ Then use these commands:
 cd /usr/local/ispconfig/interface/lib/lang/
 mv fi.lng fi.lng.bak
 wget http://raw.githubusercontent.com/theel0ja/ispconfig/master/fi.lng
-# If everything went good, remove fi.lng.bak, with this command:
+# If everything went good, remove fi.lng.bak with this command:
 rm fi.lng.bak
 ```
